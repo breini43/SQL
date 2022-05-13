@@ -1,2 +1,2 @@
 # SQL
-Homework assignments по SQL
+Homework assignments by SQL
